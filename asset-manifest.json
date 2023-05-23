@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.937e2849.css",
-    "main.js": "/static/js/main.2f67bdfa.js",
-    "static/media/shopeasy.png": "/static/media/shopeasy.13c000edb21711fd21e8.png",
-    "static/media/hindustan-times.PNG": "/static/media/hindustan-times.009f0a6b72e0fc52c6a9.PNG",
-    "static/media/indiamart.PNG": "/static/media/indiamart.1fe32501e5ded3919fba.PNG",
-    "static/media/tmetric.png": "/static/media/tmetric.9adfb9e8c65ca0500d3b.png",
-    "static/media/uboric-clone.PNG": "/static/media/uboric-clone.0be369cc8f80c7650ecb.PNG",
-    "static/media/rajeev_resume.pdf": "/static/media/rajeev_resume.95a93b95d95964191008.pdf",
-    "static/media/my_image.jpg": "/static/media/my_image.ad1449035cd75ededff5.jpg",
-    "index.html": "/index.html",
-    "main.937e2849.css.map": "/static/css/main.937e2849.css.map",
-    "main.2f67bdfa.js.map": "/static/js/main.2f67bdfa.js.map"
+    "main.css": "/react-gh-pages/static/css/main.937e2849.css",
+    "main.js": "/react-gh-pages/static/js/main.b0493101.js",
+    "static/media/shopeasy.png": "/react-gh-pages/static/media/shopeasy.13c000edb21711fd21e8.png",
+    "static/media/hindustan-times.PNG": "/react-gh-pages/static/media/hindustan-times.009f0a6b72e0fc52c6a9.PNG",
+    "static/media/indiamart.PNG": "/react-gh-pages/static/media/indiamart.1fe32501e5ded3919fba.PNG",
+    "static/media/tmetric.png": "/react-gh-pages/static/media/tmetric.9adfb9e8c65ca0500d3b.png",
+    "static/media/uboric-clone.PNG": "/react-gh-pages/static/media/uboric-clone.0be369cc8f80c7650ecb.PNG",
+    "static/media/rajeev_resume.pdf": "/react-gh-pages/static/media/rajeev_resume.95a93b95d95964191008.pdf",
+    "static/media/my_image.jpg": "/react-gh-pages/static/media/my_image.ad1449035cd75ededff5.jpg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.937e2849.css.map": "/react-gh-pages/static/css/main.937e2849.css.map",
+    "main.b0493101.js.map": "/react-gh-pages/static/js/main.b0493101.js.map"
   },
   "entrypoints": [
     "static/css/main.937e2849.css",
-    "static/js/main.2f67bdfa.js"
+    "static/js/main.b0493101.js"
   ]
 }
